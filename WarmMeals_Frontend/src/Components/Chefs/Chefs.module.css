@@ -1,0 +1,32 @@
+.box img{
+    height: 270px;
+    width: 270px;
+    border-radius: 50%;
+    overflow:hidden;
+    border: solid 1rem #fff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+
+}
+
+.box{
+    text-align: center;
+ 
+}
+.box h3{
+    padding: 1rem 0;
+    color: #6c757d;
+
+}
+.section{
+    background-color: #f8f9fa;
+    padding-bottom: 30px;
+}
+.item {
+    text-align: center;
+    margin-top: 35px;
+    padding-top: 30px;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px gray;
+
+
+}

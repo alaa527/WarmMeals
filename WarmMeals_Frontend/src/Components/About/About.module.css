@@ -1,0 +1,19 @@
+.item {
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 80px;
+    text-shadow: 2px 2px gray;
+    
+}
+.text p{
+    color: #666;
+    margin: 17px 0px;
+    font-size: 18px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.text h2{
+    font-weight: bold;
+
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}

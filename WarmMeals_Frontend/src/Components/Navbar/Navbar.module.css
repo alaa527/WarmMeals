@@ -1,0 +1,35 @@
+nav a:hover {
+    color: orangered !important;
+  
+  }
+nav a {
+    font-size: 15px !important;
+ 
+    font-weight: bold;
+  color: black ;
+  
+  }
+
+
+.cartBadge{
+    position: relative;
+    top: -13px;
+    background-color: orangered ;
+    padding: 5px  5px !important;
+    color: #fff;
+  }
+
+.navbar{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+       box-shadow: 0 5px 10px #efefef;
+       z-index: 1000;
+       font-weight: bold;
+  }
+
+  .navlogo{
+    width:45px;
+    height:45px;
+  }

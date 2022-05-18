@@ -1,0 +1,78 @@
+header{
+    background:url("../../img/background.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height:auto;
+    overflow: hidden;
+    padding: 33px 0px;
+}
+
+header h2{
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: bold;
+    width: 80%;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+header p{
+    color: #666;
+    margin: 17px 0px;
+    font-size: 20px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+header button{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    color: #fff;
+
+    background-color: orangered;
+    border: 1px solid orangered;
+    box-sizing: border-box;
+    margin:20px 10px 20px 0px;
+    font-weight: bold;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+header button:last-of-type{
+background-color: #fff;
+color: #000;
+border: #ccc;
+box-shadow:2px 2px 7px #ccc;
+}
+header button:hover{
+    transition: 0.2s ease-in-out;
+    
+}
+header button:first-of-type:hover{
+    color:orangered;
+    background-color: #fff;
+   
+}
+header button:last-of-type:hover{
+    background-color: orangered;
+    color:#fff;
+}
+.numbers{
+    background-color: orangered;
+ max-width: 100%;
+    text-align: center;
+    height:auto;
+    overflow: hidden;
+    padding: 25px 0px;
+}
+.numbers h2{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+.numbers h6{
+    color: #fff;
+    font-weight: bold;
+   
+}

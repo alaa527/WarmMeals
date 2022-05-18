@@ -1,0 +1,14 @@
+.backtop{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 40px;
+    background: gray;
+    color: white;
+    cursor: pointer;
+    border-radius: 100px;
+    border: none;
+    padding: 4px;
+    box-shadow: 0 5px 10px #ccc;
+    z-index: 999;
+}
